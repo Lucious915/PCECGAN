@@ -1,12 +1,4 @@
-V0527 :
-Attention map : gray-scale image
-use conditional global/local discriminator
-use AdaIN connection
-
-
-# EnlightenGAN
-
-[EnlightenGAN: Deep Light Enhancement without Paired Supervision](https://arxiv.org/abs/1906.06972)
+# PCECGAN
 
 ### Representitive Results
 ![representive_results](/assets/show_3.png)
